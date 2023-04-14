@@ -1,0 +1,76 @@
+{
+    "Shoes": [
+        {
+            "shoename": "Nike Shox NZ",
+            "shoeimageloc": "./images/image1.png",
+            "shoeprice": "305$",
+            "shoestock": true
+        },
+        {
+            "shoename": "Nike Air Mag",
+            "shoeimageloc": "./images/image2.png",
+            "shoeprice": "109995$",
+            "shoestock": false
+        },
+        {
+            "shoename": "Nike Hyperadapt 1",
+            "shoeimageloc": "./images/image3.png",
+            "shoeprice": "720$",
+            "shoestock": true
+        },
+        {
+            "shoename": "Nike Roshe Run",
+            "shoeimageloc": "./images/image4.png",
+            "shoeprice": "220$",
+            "shoestock": true
+        },
+        {
+            "shoename": "Nike Lunar Flyknit Trainer HTM",
+            "shoeimageloc": "./images/image5.png",
+            "shoeprice": "200$",
+            "shoestock": true
+        },
+        {
+            "shoename": "Nike Lunar Racer 1",
+            "shoeimageloc": "./images/image6.png",
+            "shoeprice": "50.99$",
+            "shoestock": true
+        },
+        {
+            "shoename": "Nike Air 180",
+            "shoeimageloc": "./images/image7.png",
+            "shoeprice": "327$",
+            "shoestock": true
+        },
+        {
+            "shoename": "Nike Air Huarache",
+            "shoeimageloc": "./images/image8.png",
+            "shoeprice": "170$",
+            "shoestock": true
+        },
+        {
+            "shoename": "Nike Air Max 97",
+            "shoeimageloc": "./images/image 9.png",
+            "shoeprice": "250$",
+            "shoestock": true
+        },
+        {
+            "shoename": "Nike Air Force One Red",
+            "shoeimageloc": "./images/image10.png",
+            "shoeprice": "180$",
+            "shoestock": true
+        },
+        {
+            "shoename": "Nike Dunk High Premium SB 'Lumberjack'",
+            "shoeimageloc": "./images/image11.png",
+            "shoeprice": "300$",
+            "shoestock": true
+        },
+        {
+            "shoename": "Nike Free Run 3 Blue",
+            "shoeimageloc": "./images/image12.png",
+            "shoeprice": "39.95$",
+            "shoestock": true
+        }
+    ]
+}
